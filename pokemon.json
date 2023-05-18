@@ -1,0 +1,372 @@
+{
+    "pokedex": [
+      {
+        "id": 1,
+        "name": "Bulbasaur",
+        "type": ["Grass", "Poison"],
+        "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+        "height": "0.7 m",
+        "weight": "6.9 kg",
+        "abilities": ["Overgrow"],
+        "evolution": {
+          "level": 16,
+          "to": "Ivysaur"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Ivysaur",
+        "type": ["Grass", "Poison"],
+        "description": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+        "height": "1.0 m",
+        "weight": "13.0 kg",
+        "abilities": ["Overgrow"],
+        "evolution": {
+          "level": 32,
+          "to": "Venusaur"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Venusaur",
+        "type": ["Grass", "Poison"],
+        "description": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+        "height": "2.0 m",
+        "weight": "100.0 kg",
+        "abilities": ["Overgrow"],
+        "evolution": null
+      },
+      {
+        "id": 4,
+        "name": "Charmander",
+        "type": ["Fire"],
+        "description": "The flame on its tail shows the strength of its life force. If it's healthy, the flame burns brightly. When it weakens, the flame dims noticeably.",
+        "height": "0.6 m",
+        "weight": "8.5 kg",
+        "abilities": ["Blaze"],
+        "evolution": {
+          "level": 16,
+          "to": "Charmeleon"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Charmeleon",
+        "type": ["Fire"],
+        "description": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong enemy, it becomes agitated, and the flame on its tail flares up to intimidate the opponent.",
+        "height": "1.1 m",
+        "weight": "19.0 kg",
+        "abilities": ["Blaze"],
+        "evolution": {
+          "level": 36,
+          "to": "Charizard"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Charizard",
+        "type": ["Fire", "Flying"],
+        "description": "Charizard flies around the sky in search of powerful opponents. It breathes intense flames that can melt anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+        "height": "1.7 m",
+        "weight": "90.5 kg",
+        "abilities": ["Blaze"],
+        "evolution": null
+      },
+      {
+        "id": 7,
+        "name": "Squirtle",
+        "type": ["Water"],
+        "description": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+        "height": "0.5 m",
+        "weight": "9.0 kg",
+        "abilities": ["Torrent"],
+        "evolution": {
+          "level": 16,
+          "to": "Wartortle"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Wartortle",
+        "type": ["Water"],
+        "description": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+        "height": "1.0 m",
+        "weight": "22.5 kg",
+        "abilities": ["Torrent"],
+        "evolution": {
+          "level": 36,
+          "to": "Blastoise"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Blastoise",
+        "type": ["Water"],
+        "description": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+        "height": "1.6 m",
+        "weight": "85.5 kg",
+        "abilities": ["Torrent"],
+        "evolution": null
+      },
+      {
+        "id": 10,
+        "name": "Caterpie",
+        "type": ["Bug"],
+        "description": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
+        "height": "0.3 m",
+        "weight": "2.9 kg",
+        "abilities": ["Shield Dust"],
+        "evolution": {
+          "level": 7,
+          "to": "Metapod"
+        }
+      },
+      {
+        "id": 11,
+        "name": "Metapod",
+        "type": ["Bug"],
+        "description": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+        "height": "0.7 m",
+        "weight": "9.9 kg",
+        "abilities": ["Shed Skin"],
+        "evolution": {
+          "level": 10,
+          "to": "Butterfree"
+        }
+      },
+      {
+        "id": 12,
+        "name": "Butterfree",
+        "type": ["Bug", "Flying"],
+        "description": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+        "height": "1.1 m",
+        "weight": "32.0 kg",
+        "abilities": ["Compound Eyes"],
+        "evolution": null
+      },
+      {
+        "id": 13,
+        "name": "Weedle",
+        "type": ["Bug", "Poison"],
+        "description": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+        "height": "0.3 m",
+        "weight": "3.2 kg",
+        "abilities": ["Shield Dust"],
+        "evolution": {
+          "level": 7,
+          "to": "Kakuna"
+        }
+      },
+      {
+        "id": 14,
+        "name": "Kakuna",
+        "type": ["Bug", "Poison"],
+        "description": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+        "height": "0.6 m",
+        "weight": "10.0 kg",
+        "abilities": ["Shed Skin"],
+        "evolution": {
+          "level": 10,
+          "to": "Beedrill"
+        }
+      },
+      {
+        "id": 15,
+        "name": "Beedrill",
+        "type": ["Bug", "Poison"],
+        "description": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+        "height": "1.0 m",
+        "weight": "29.5 kg",
+        "abilities": ["Swarm"],
+        "evolution": null
+      },
+      {
+        "id": 16,
+        "name": "Pidgey",
+        "type": ["Normal", "Flying"],
+        "description": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+        "height": "0.3 m",
+        "weight": "1.8 kg",
+        "abilities": ["Keen Eye", "Tangled Feet"],
+        "evolution": {
+          "level": 18,
+          "to": "Pidgeotto"
+        }
+      },
+      {
+        "id": 17,
+        "name": "Pidgeotto",
+        "type": ["Normal", "Flying"],
+        "description": "This Pokémon flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+        "height": "1.1 m",
+        "weight": "30.0 kg",
+        "abilities": ["Keen Eye", "Tangled Feet"],
+        "evolution": {
+          "level": 36,
+          "to": "Pidgeot"
+        }
+      },
+      {
+        "id": 18,
+        "name": "Pidgeot",
+        "type": ["Normal", "Flying"],
+        "description": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
+        "height": "1.5 m",
+        "weight": "39.5 kg",
+        "abilities": ["Keen Eye", "Tangled Feet"],
+        "evolution": null
+      },
+      {
+        "id": 19,
+        "name": "Rattata",
+        "type": ["Normal"],
+        "description": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.",
+        "height": "0.3 m",
+        "weight": "3.5 kg",
+        "abilities": ["Run Away", "Guts"],
+        "evolution": {
+          "level": 20,
+          "to": "Raticate"
+        }
+      },
+      {
+        "id": 20,
+        "name": "Raticate",
+        "type": ["Normal"],
+        "description": "Raticate's sturdy fangs grow steadily. To keep them ground sharp, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "abilities": ["Run Away", "Guts"],
+        "evolution": null
+      },
+      {
+        "id": 21,
+        "name": "Spearow",
+        "type": ["Normal", "Flying"],
+        "description": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+        "height": "0.3 m",
+        "weight": "2.0 kg",
+        "abilities": ["Keen Eye", "Sniper"],
+        "evolution": {
+          "level": 20,
+          "to": "Fearow"
+        }
+      },
+      {
+        "id": 22,
+        "name": "Fearow",
+        "type": ["Normal", "Flying"],
+        "description": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
+        "height": "1.2 m",
+        "weight": "38.0 kg",
+        "abilities": ["Keen Eye", "Sniper"],
+        "evolution": null
+      },
+      {
+        "id": 23,
+        "name": "Ekans",
+        "type": ["Poison"],
+        "description": "Ekans curls itself up in a spiral while it rests. This position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+        "height": "2.0 m",
+        "weight": "6.9 kg",
+        "abilities": ["Intimidate", "Shed Skin"],
+        "evolution": {
+          "level": 22,
+          "to": "Arbok"
+        }
+      },
+      {
+        "id": 24,
+        "name": "Arbok",
+        "type": ["Poison"],
+        "description": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
+        "height": "3.5 m",
+        "weight": "65.0 kg",
+        "abilities": ["Intimidate", "Shed Skin"],
+        "evolution": null
+      },
+      {
+        "id": 25,
+        "name": "Pikachu",
+        "type": ["Electric"],
+        "description": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
+        "height": "0.4 m",
+        "weight": "6.0 kg",
+        "abilities": ["Static", "Lightning Rod"],
+        "evolution": {
+          "method": "Friendship",
+          "to": "Raichu"
+        }
+      },
+      {
+        "id": 26,
+        "name": "Raichu",
+        "type": ["Electric"],
+        "description": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
+        "height": "0.8 m",
+        "weight": "30.0 kg",
+        "abilities": ["Static", "Lightning Rod"],
+        "evolution": null
+      },
+      {
+        "id": 27,
+        "name": "Sandshrew",
+        "type": ["Ground"],
+        "description": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
+        "height": "0.6 m",
+        "weight": "12.0 kg",
+        "abilities": ["Sand Veil", "Sand Rush"],
+        "evolution": {
+          "level": 22,
+          "to": "Sandslash"
+        }
+      },
+      {
+        "id": 28,
+        "name": "Sandslash",
+        "type": ["Ground"],
+        "description": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
+        "height": "1.0 m",
+        "weight": "29.5 kg",
+        "abilities": ["Sand Veil", "Sand Rush"],
+        "evolution": null
+      },
+      {
+        "id": 29,
+        "name": "Nidoran♀",
+        "type": ["Poison"],
+        "description": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+        "height": "0.4 m",
+        "weight": "7.0 kg",
+        "abilities": ["Poison Point", "Rivalry"],
+        "evolution": {
+          "level": 16,
+          "to": "Nidorina"
+        }
+      },
+      {
+        "id": 30,
+        "name": "Nidorina",
+        "type": ["Poison"],
+        "description": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+        "height": "0.8 m",
+        "weight": "20.0 kg",
+        "abilities": ["Poison Point", "Rivalry"],
+        "evolution": {
+          "method": "Moon Stone",
+          "to": "Nidoqueen"
+        }
+      },
+      {
+        "id": 31,
+        "name": "Nidoqueen",
+        "type": ["Poison", "Ground"],
+        "description": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
+        "height": "1.3 m",
+        "weight": "60.0 kg",
+        "abilities": ["Poison Point", "Rivalry"],
+        "evolution": null
+      }
+    ]
+}
+  
